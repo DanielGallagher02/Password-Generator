@@ -16,16 +16,16 @@ A Python script to generate complex passwords with adjustable length and complex
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/password-generator.git
+    git clone https://github.com/yourusername/Password-Generator.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd password-generator
+    cd Password-Generator
     ```
 
 ## Usage
 
 Run the script with default settings:
 ```sh
-python password_generator.py
+python Password_Generator.py
