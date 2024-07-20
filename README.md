@@ -28,4 +28,4 @@ A Python script to generate complex passwords with adjustable length and complex
 
 Run the script with default settings:
 ```sh
-python Password_Generator.py
+python code.py
